@@ -1,9 +1,24 @@
+.description {
+    border: 1px solid black;
+    padding: 30px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
 .titleimage {
     border-radius: 8px;
     text-align: center;
     background: #7F8B97;
 }
+.p1 {
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .buttontitle{
+    text-align: center;
+    background: #a6a6a7;
+}
+.footer{
     text-align: center;
 }
 h1{
@@ -17,7 +32,7 @@ h4{
 .header {
     padding: 30px;
     text-align: center;
-    background: #1d1c1c;
+    background: #474747;
     color: rgb(255, 255, 255);
     font-size: 20px;
 }
@@ -152,3 +167,23 @@ h4{
 }
 .button1 {background-color: #151b19;} /* Green */
 .button2 {background-color: #008CBA;} /* Blue */
+
+a:link {
+    color: white;
+    text-decoration: none;
+    text-decoration-line: underline;
+}
+    
+a:visited {
+    color: white;
+    text-decoration: none;
+    text-decoration-line: underline;
+}
+br {
+    display: block;
+    margin: 10px 0;
+}
+table {
+    width: 100%;
+    text-align: center;
+}
