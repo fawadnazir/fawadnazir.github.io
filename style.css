@@ -153,6 +153,7 @@ h4{
     background: #ff6600;
     color: white;
 }
+/*
 .button {
     border: none;
     color: white;
@@ -164,8 +165,10 @@ h4{
     margin: 4px 2px;
     cursor: pointer;
 }
-.button1 {background-color: #151b19;} /* Green */
-.button2 {background-color: #008CBA;} /* Blue */
+
+.button1 {background-color: #151b19;}
+.button2 {background-color: #008CBA;}
+*/
 /*
 a:link {
     color: white;
@@ -187,3 +190,4 @@ table {
     width: 100%;
     text-align: center;
 }
+
